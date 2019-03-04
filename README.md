@@ -2,14 +2,14 @@
 
 ## Description
 A simple cards application developed in conjunction with the following course:  
-(Go: The Complete Developer Guide)["https://www.udemy.com/go-the-complete-developers-guide/"]
+[Go: The Complete Developer Guide]("https://www.udemy.com/go-the-complete-developers-guide/")
 
 ## Interface
 Create a new deck:  
 `cards := newDeck()`
 
 Deal out a set of cards of a specified size:  
-**Note: returns a dealt set and the remaining deck of cards**  
+*Note: returns a dealt set and the remaining deck of cards*  
 `newHand, remainingDeck := deal(cards, handSize)`
 
 Shuffle a deck:  
