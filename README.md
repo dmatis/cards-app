@@ -2,7 +2,7 @@
 
 ## Description
 A simple cards application developed in conjunction with the following course:  
-[Go: The Complete Developer Guide]("https://www.udemy.com/go-the-complete-developers-guide/")
+[Go: The Complete Developer Guide](https://www.udemy.com/go-the-complete-developers-guide)
 
 ## Interface
 Create a new deck:  
